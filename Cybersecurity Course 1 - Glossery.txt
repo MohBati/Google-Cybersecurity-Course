@@ -107,3 +107,11 @@ Adversarial artificial intelligence (AI): A technique that manipulates artificia
 
 
 Cryptographic attack: An attack that affects secure forms of communication between a sender and intended recipient.
+
+
+
+
+________________
+
+
+
