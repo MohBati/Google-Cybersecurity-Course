@@ -1,0 +1,109 @@
+﻿Malware: software designed to harm devices or networks.
+
+
+common types of malware attacks:
+1. Virus: a code to damage to data and software. Must be run to activate
+
+2. Worms: Can duplicate and spread itself across systems on its own. Spreads automatically.
+
+3. Ransomware: A malicious attack where threat actors encrypt an organization's data and demand payment
+
+4. Spyware: Malware that’s used to gather and sell information without consent.
+
+
+
+
+________________
+
+
+
+
+
+
+Brain virus: tracks illegal copies of medical software and prevents pirated licenses, from spreading through every PC used on that disk. and made all the PCs slow.
+
+
+
+
+Morris worm: a program to assess the size of the internet, turned out it lost control until the PCs ran out of memory and crashed.
+
+
+
+
+Love letter Malware: users received an email with I love you with an attachment,
+when the attachment is opened, the malware scans the user's address book
+sends itself to each one on the list
+and installs a program to collect information and passwords.
+
+
+
+
+________________
+
+
+
+
+
+
+Social Engineering: a manipulation technique that exploits human error to gain private info or valuables.
+
+
+Common types of Social Engineering:
+   1. Social media phishing: A threat actor collects detailed information about their target from social media sites. Then, they initiate an attack.
+
+   2. Watering hole attack: A threat actor attacks a website frequently visited by a specific group of users.
+
+   3. USB baiting: A threat actor strategically leaves a malware USB stick for an employee to find and install, to unknowingly infect a network.
+
+   4. Physical social engineering: A threat actor impersonates an employee, customer, or vendor to obtain unauthorized access to a physical location.
+
+
+Reasons why social engineering attacks are effective include:
+      1. Authority: Threat actors impersonate individuals with power.
+
+      2. Intimidation: Threat actors use bullying tactics
+
+      3. Consensus/Social proof: Because people sometimes do things that they believe many others are doing, threat actors use others’ trust to pretend they are legitimate
+
+      4. Scarcity: A tactic used to imply that goods or services are in limited supply.
+
+      5. Familiarity: Threat actors establish a fake emotional connection with users that can be exploited.
+
+      6. Trust: Threat actors establish an emotional relationship with users that can be exploited over time.
+
+      7. Urgency: A threat actor persuades others to respond quickly and without questioning.
+
+
+________________
+
+
+
+
+
+
+Phishing: use of digital comms to trick ppl into revealing sensitive data or deploying malicious software.
+
+
+Common types of phishing attacks:
+         1. Business Email Compromise (BEC): Sending an email looks like from a known source, asking for information, in order to obtain a financial advantage.
+
+         2. Spear phishing: A malicious email attack that targets a specific user or group of users. looks like from a known source.
+
+         3. Whaling: A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
+
+         4. Vishing: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
+
+         5. Smishing: The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
+
+
+
+
+________________
+
+
+
+
+Adversarial artificial intelligence (AI): A technique that manipulates artificial intelligence (AI) and machine learning (ML) technology to conduct attacks more efficiently.
+
+
+Cryptographic attack: An attack that affects secure forms of communication between a sender and intended recipient.
