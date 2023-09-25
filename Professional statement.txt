@@ -1,0 +1,22 @@
+﻿Strengths:
+1. Problem solving
+2. Time management
+3. Programming
+
+
+Values:
+1. Ensuring equitable access
+2. Protecting people
+
+
+Professional statement:
+I am a certified Cybersecurity professional. I am a dedicated and driven individual on a journey to master the field of cybersecurity. My passion for technology and my unwavering commitment to protecting digital assets have propelled me into this dynamic and ever-evolving domain. I am a good problem solver, I gained it from many years of experience in my previous roles, as well as a good time manager. I recently gained a basic knowledge of programming in multiple languages like HTML, CSS, JS, TS, and C++, and now I hope to gain and master Python.
+I have a good knowledge of technical support I self-learned that I faced hack threats and data breaches multiple times before, I believe that everyone should have their total privacy and no one be able to access someone else’s data.
+My enthusiasm for Cybersecurity comes from having the proudness of becoming the one who prevents any threat that might affect the organization I work with, and having the knowledge itself gives me the power to make people aware about and keep them safe.
+I believe that my skills will be very useful for me when I master this field, time management is required every day for a Cybersecurity professional, as well as problem-solving is very important especially when a threat comes up, and programming will make my job easier and will save too much of my working time, which will allow me to do another tasks while the program is working.
+
+
+
+
+Draft for organizations:
+My name is Mohammad, I am a certified Cybersecurity professional with a strong dedication to safeguarding digital assets. My passion for technology, problem-solving abilities, and commitment to privacy drive my pursuit of mastery in cybersecurity. I aspire to become the guardian of organizational security, utilizing my time management skills, technical knowledge, and programming expertise to protect against threats and raise awareness about online safety.
